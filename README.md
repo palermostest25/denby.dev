@@ -1,1 +1,1 @@
-Open Source Code For: denbydaily.com
+Landing Page for denby.dev
