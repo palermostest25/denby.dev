@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#about {
+    color: aqua;
+}
+
+#button {
+    border-width: 2px;
+    border-color: black;
+    border-radius: 1vw;
+    padding: 1vw;
+}
